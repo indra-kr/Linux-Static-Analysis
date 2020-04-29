@@ -3,7 +3,7 @@
 *
 * Coded by 1ndr4 (indra.kr@gmail.com)
 * 
-* https://github.com/indra-kr/Linux-Static-Analysis/blob/master/read_rel.plt.c
+* https://github.com/indra-kr/Linux-Static-Analysis/blob/master/read_rel_plt.c
 */
 #include <stdio.h>
 #include <stdlib.h>
